@@ -9,3 +9,5 @@ código 3 {
 
 
 esse textyo vai ser desenvolvido em paralelo
+
+texto 4
