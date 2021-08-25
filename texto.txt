@@ -2,4 +2,10 @@ código
 
 código 2
 
-códiogo 3
+
+código 3 {
+  abc
+}
+
+
+esse textyo vai ser desenvolvido em paralelo
